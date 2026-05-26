@@ -1169,7 +1169,7 @@ AnimationClip:
         outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
       - serializedVersion: 3
         time: 0.43333334
-        value: {x: 0, y: 0, z: -96.274}
+        value: {x: 0, y: 0, z: -83.08}
         inSlope: {x: 0, y: 0, z: 0}
         outSlope: {x: 0, y: 0, z: 0}
         tangentMode: 0
@@ -1187,7 +1187,7 @@ AnimationClip:
         outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
       - serializedVersion: 3
         time: 1.25
-        value: {x: 0, y: 0, z: -96.274}
+        value: {x: 0, y: 0, z: -83.08}
         inSlope: {x: 0, y: 0, z: 0}
         outSlope: {x: 0, y: 0, z: 0}
         tangentMode: 0
@@ -1205,7 +1205,7 @@ AnimationClip:
         outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
       - serializedVersion: 3
         time: 2.05
-        value: {x: 0, y: 0, z: -96.274}
+        value: {x: 0, y: 0, z: -83.08}
         inSlope: {x: 0, y: 0, z: 0}
         outSlope: {x: 0, y: 0, z: 0}
         tangentMode: 0
@@ -12543,7 +12543,7 @@ AnimationClip:
         outWeight: 0.33333334
       - serializedVersion: 3
         time: 0.43333334
-        value: -96.274
+        value: -83.08
         inSlope: 0
         outSlope: 0
         tangentMode: 136
@@ -12561,7 +12561,7 @@ AnimationClip:
         outWeight: 0.33333334
       - serializedVersion: 3
         time: 1.25
-        value: -96.274
+        value: -83.08
         inSlope: 0
         outSlope: 0
         tangentMode: 136
@@ -12579,7 +12579,7 @@ AnimationClip:
         outWeight: 0.33333334
       - serializedVersion: 3
         time: 2.05
-        value: -96.274
+        value: -83.08
         inSlope: 0
         outSlope: 0
         tangentMode: 136
@@ -15292,7 +15292,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalEulerAngles.z
-    path: Body_Default_01_Gra/Rig1_Body/Rig2_Body/LArm_Default_01_Gra/Rig1_LArm/Rig2_LArm/LHand_Default_Gra_Open/Rig1_LHand_Open
+    path: Body_Default_01_Gra/Rig1_Body/Rig2_Body/RArm_Default_01_Gra/Rig1_RArm/Rig2_RArm/RHand_Default_Gra_Open/Rig1_RHand_Open
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -15302,7 +15302,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalEulerAngles.y
-    path: Body_Default_01_Gra/Rig1_Body/Rig2_Body/LArm_Default_01_Gra/Rig1_LArm/Rig2_LArm/LHand_Default_Gra_Open/Rig1_LHand_Open
+    path: Body_Default_01_Gra/Rig1_Body/Rig2_Body/RArm_Default_01_Gra/Rig1_RArm/Rig2_RArm/RHand_Default_Gra_Open/Rig1_RHand_Open
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -15312,7 +15312,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalEulerAngles.x
-    path: Body_Default_01_Gra/Rig1_Body/Rig2_Body/LArm_Default_01_Gra/Rig1_LArm/Rig2_LArm/LHand_Default_Gra_Open/Rig1_LHand_Open
+    path: Body_Default_01_Gra/Rig1_Body/Rig2_Body/RArm_Default_01_Gra/Rig1_RArm/Rig2_RArm/RHand_Default_Gra_Open/Rig1_RHand_Open
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -15352,7 +15352,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalEulerAngles.x
-    path: Body_Default_01_Gra/Rig1_Body/Rig2_Body/RArm_Default_01_Gra/Rig1_RArm/Rig2_RArm/RHand_Default_Gra_Open/Rig1_RHand_Open
+    path: Body_Default_01_Gra/Rig1_Body/Rig2_Body/LArm_Default_01_Gra/Rig1_LArm/Rig2_LArm/LHand_Default_Gra_Open/Rig1_LHand_Open
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -15362,7 +15362,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalEulerAngles.y
-    path: Body_Default_01_Gra/Rig1_Body/Rig2_Body/RArm_Default_01_Gra/Rig1_RArm/Rig2_RArm/RHand_Default_Gra_Open/Rig1_RHand_Open
+    path: Body_Default_01_Gra/Rig1_Body/Rig2_Body/LArm_Default_01_Gra/Rig1_LArm/Rig2_LArm/LHand_Default_Gra_Open/Rig1_LHand_Open
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -15372,7 +15372,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalEulerAngles.z
-    path: Body_Default_01_Gra/Rig1_Body/Rig2_Body/RArm_Default_01_Gra/Rig1_RArm/Rig2_RArm/RHand_Default_Gra_Open/Rig1_RHand_Open
+    path: Body_Default_01_Gra/Rig1_Body/Rig2_Body/LArm_Default_01_Gra/Rig1_LArm/Rig2_LArm/LHand_Default_Gra_Open/Rig1_LHand_Open
     classID: 4
     script: {fileID: 0}
   m_HasGenericRootTransform: 0
